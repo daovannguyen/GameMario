@@ -1,0 +1,10 @@
+public enum SoundName
+{
+    INGAME,
+    WINGAME,
+    LOSEGAME,
+    PLAYER_JUMP,
+    PLAYER_HITENEMY,
+    PLAYER_HITGOLD,
+    PLAYER_KILLENEMY
+}
